@@ -1,0 +1,5 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Keep 3D model data byte-for-byte and out of text diffs
+*.stl binary
