@@ -3,3 +3,4 @@
 
 # Keep 3D model data byte-for-byte and out of text diffs
 *.stl binary
+*.step binary
